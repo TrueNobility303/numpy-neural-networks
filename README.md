@@ -12,6 +12,7 @@
 * dropout.py 引入dropout之后的模型
 * finetune.py 对训练过的模型使用最小二乘法进行微调
 * /dump 中间结果输出
+* project.pdf 报告，代码详细说明与实验
 
 ## 训练曲线
 
