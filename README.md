@@ -15,4 +15,4 @@
 
 ## 训练曲线
 
-![}()
+![](https://github.com/TrueNobility303/clstorch/tree/master/dump)
