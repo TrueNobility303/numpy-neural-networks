@@ -1,5 +1,24 @@
 # clstorch
 
+## Abstract
+
+Neural netwroks with Numpy for handwritten digit recognition on MNIST dataset, getting an accuracy of above 95%.
+Ablation studies are done! Refer to the report!
+
+## Files
+
+* clstorch.py:基于numpy定义的简易框架
+* dataloader.py: codes of dataloder
+* main.py: the main program
+* dropout.py: network with dropout
+* finetune.py: codes for finetuning a model
+* /dump: directory for outputs
+* project.pdf: report
+
+## Training Curve
+
+![](https://github.com/TrueNobility303/clstorch/blob/master/dump/loss-valid.png)
+
 ## 摘要
 
 基于numpy实现简易版深度学习框架clstorch，搭建神经网络时间MNIST手写数字识别，达到95%以上的准确率，并探究了神经网络的各个组件对最终结果的影响。
