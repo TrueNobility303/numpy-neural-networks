@@ -7,7 +7,7 @@ Ablation studies are done! Refer to the report!
 
 ## Files
 
-* clstorch.py:基于numpy定义的简易框架
+* clstorch.py: neural networks with Numpy
 * dataloader.py: codes of dataloder
 * main.py: the main program
 * dropout.py: network with dropout
