@@ -1,4 +1,4 @@
-# clstorch
+# Numpy Neural Networks
 
 ## Abstract
 
